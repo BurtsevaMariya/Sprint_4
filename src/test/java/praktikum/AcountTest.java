@@ -24,6 +24,8 @@ public class AcountTest {
                 {"Timothy Chalomet", true},
                 {"Q Б", true},
                 {"Р12345 O:?*()", true},
+                {"Восемнадца тьСимво", true},
+                {"Девятнадца тьСимволо", false},
                 {"TШ", false},
                 {"Болеедевятнадцатисимволов Болеедевятнадцатисимволов", false},
                 {"Тимоти ", false},
